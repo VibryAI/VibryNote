@@ -14,6 +14,7 @@
 
 ## 目录
 - `VibryNote-设计.md` — 产品 / 架构 / AI 增强 / Agent 互通 设计（先读）
+- `VibryNote-Web-设计.md` — Web 端对标 印象笔记/有道云/Notion 的交互与功能设计
 
 ## 里程碑
 - M0 基座稳定基线
